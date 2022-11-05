@@ -14,26 +14,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['917099915088'] //ur owner number
+global.ownername = "🦄Emdad" //ur owner name
+global.ytname = "YT: Emdad Hussain" //ur yt chanel name
+global.socialm = "GitHub: Emdad05" //ur github or insta name
+global.location = "India, Assam" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213'] //ur number
-global.ownernomer = "916909137213" //ur number
-global.ownertag = '916909137213' //ur tag number
-global.premium = ['916909137213'] //ur premium number
+global.owner = ['917099915088'] //ur number
+global.ownernomer = "917099915088" //ur number
+global.ownertag = '917099915088' //ur tag number
+global.premium = ['917099915088'] //ur premium number
 global.botname = 'Cheems Bot V5' //ur bot name
-global.ownername = "🦄Dream Guy Xeon"
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.ownername = "🦄Emdad"
+global.linkz = "https://youtube.com/channel/UCTvKW5xLr2_C7H24J-M2GLQ" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/channel/UCTvKW5xLr2_C7H24J-M2GLQ" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD5' //script link
-global.themeemoji = "🦄" //ur theme emoji
+global.themeemoji = "☠︎︎" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
 global.author = "Cheems Bot" //ur sticker watermark author
-global.wm = "Xeon Bot Inc." //ur watermark
+global.wm = "EMD Bot Inc.   emdad_98760" //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -42,7 +42,7 @@ global.sp = ''
 global.mess = {
     success: 'Done✓',
     admin: 'This feature could be used by admins only!',
-    botAdmin: 'Bot Must Be Admin First!',
+    botAdmin: 'Bot Must Be AN Admin First!',
     premime: 'Premium Special Features If You Want to Register Type Rent',
     owner: 'This feature could be used by owner only',
     group: 'Features Used Only For Groups!',
