@@ -18,7 +18,7 @@
     "multi-device",
     "xeon-bot-inc"
   ],
-  "author": "DGXeon",
+  "author": "Emdad",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
@@ -78,7 +78,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DGXeon/CheemsBot-MD4.git"
+    "url": "git+https://github.com/Emdad05/CheemsBot-MD4.git"
   },
   "bugs": {
     "url": "https://github.com/DGXeon/CheemsBot-MD4/issues"
